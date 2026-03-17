@@ -275,8 +275,4 @@ Query → Embed → Hybrid Search (dense + sparse)
               LLM generates response
 ```
 
----
 
-## License
-
-MIT - Use this for learning, modify as needed.
